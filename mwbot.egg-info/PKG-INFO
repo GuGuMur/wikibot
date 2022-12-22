@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: mwbot
-Version: 0.0.3
+Version: 0.0.3.post0
 Summary: 为PRTS和ArcaeaCNWiki提供编辑功能的mediawiki api库
 Home-page: https://github.com/GuGuMur/mwbot
 Author: GuGuMur

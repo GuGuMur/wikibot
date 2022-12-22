@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mwbot",
-    version="0.0.3",
+    version="0.0.3_post",
     author="GuGuMur",
     author_email="2221533105@qq.com",
     description="为PRTS和ArcaeaCNWiki提供编辑功能的mediawiki api库",
