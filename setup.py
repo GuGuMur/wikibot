@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="wikibot",
-    version="0.0.1",
+    name="mwbot",
+    version="0.0.2",
     author="GuGuMur",
     author_email="2221533105@qq.com",
     description="为PRTS和ArcaeaCNWiki提供编辑功能的mediawiki api库",
