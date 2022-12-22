@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+wikibot.egg-info/PKG-INFO
+wikibot.egg-info/SOURCES.txt
+wikibot.egg-info/dependency_links.txt
+wikibot.egg-info/top_level.txt
