@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mwbot",
-    version="0.0.2",
+    version="0.0.3",
     author="GuGuMur",
     author_email="2221533105@qq.com",
     description="为PRTS和ArcaeaCNWiki提供编辑功能的mediawiki api库",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/GuGuMur/wikibot",
+    url="https://github.com/GuGuMur/mwbot",
     packages=setuptools.find_packages(),
     classifiers=[
     "Programming Language :: Python :: 3",

@@ -5,7 +5,7 @@ import requests
 import json
 from loguru import logger
 import os
-import lib.model as model
+import mwbot.model as model
 
 def get_item_name(id:str)->str:
     """输入：`id`

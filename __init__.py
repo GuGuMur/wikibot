@@ -6,7 +6,7 @@ import os
 import schedule
 # import lib.model as model
 import aiohttp
-import lib.prototype as pt
+import mwbot.prototype as pt
 
 class Bot():
     '''[https://www.mediawiki.wikimirror.org/wiki/API:Main_page/zh]
