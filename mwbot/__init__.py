@@ -4,7 +4,6 @@ import ujson as json
 from loguru import logger
 import os
 import schedule
-# import lib.model as model
 import aiohttp
 import mwbot.prototype as pt
 
